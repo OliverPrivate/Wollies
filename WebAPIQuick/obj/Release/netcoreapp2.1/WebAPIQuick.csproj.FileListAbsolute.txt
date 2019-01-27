@@ -1,0 +1,14 @@
+C:\Users\shaw2\source\repos\WebAPIQuick\WebAPIQuick\bin\Release\netcoreapp2.1\WebAPIQuick.deps.json
+C:\Users\shaw2\source\repos\WebAPIQuick\WebAPIQuick\bin\Release\netcoreapp2.1\WebAPIQuick.runtimeconfig.json
+C:\Users\shaw2\source\repos\WebAPIQuick\WebAPIQuick\bin\Release\netcoreapp2.1\WebAPIQuick.runtimeconfig.dev.json
+C:\Users\shaw2\source\repos\WebAPIQuick\WebAPIQuick\bin\Release\netcoreapp2.1\WebAPIQuick.dll
+C:\Users\shaw2\source\repos\WebAPIQuick\WebAPIQuick\bin\Release\netcoreapp2.1\WebAPIQuick.pdb
+C:\Users\shaw2\source\repos\WebAPIQuick\WebAPIQuick\obj\Release\netcoreapp2.1\WebAPIQuick.csproj.CoreCompileInputs.cache
+C:\Users\shaw2\source\repos\WebAPIQuick\WebAPIQuick\obj\Release\netcoreapp2.1\WebAPIQuick.RazorAssemblyInfo.cache
+C:\Users\shaw2\source\repos\WebAPIQuick\WebAPIQuick\obj\Release\netcoreapp2.1\WebAPIQuick.RazorAssemblyInfo.cs
+C:\Users\shaw2\source\repos\WebAPIQuick\WebAPIQuick\obj\Release\netcoreapp2.1\WebAPIQuick.AssemblyInfoInputs.cache
+C:\Users\shaw2\source\repos\WebAPIQuick\WebAPIQuick\obj\Release\netcoreapp2.1\WebAPIQuick.AssemblyInfo.cs
+C:\Users\shaw2\source\repos\WebAPIQuick\WebAPIQuick\obj\Release\netcoreapp2.1\WebAPIQuick.RazorTargetAssemblyInfo.cache
+C:\Users\shaw2\source\repos\WebAPIQuick\WebAPIQuick\obj\Release\netcoreapp2.1\WebAPIQuick.dll
+C:\Users\shaw2\source\repos\WebAPIQuick\WebAPIQuick\obj\Release\netcoreapp2.1\WebAPIQuick.pdb
+C:\Users\shaw2\source\repos\WebAPIQuick\WebAPIQuick\obj\Release\netcoreapp2.1\WebAPIQuick.csprojAssemblyReference.cache
